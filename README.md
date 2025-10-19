@@ -6,7 +6,7 @@ SpeakStrong is a digital communication aid designed to support students with cer
 # Target User
 The prototype was designed for students with cerebral palsy whose condition restricts both mobility and speech. SpeakStrong provides a simple, adaptive platform to facilitate communication in academic and social settings.
 
-#Measures of Success
+# Measures of Success
 - CSAT (Customer Satisfaction): 84% satisfaction rate from educators and support staff (above the 80% industry benchmark).
 - Survey Participants: 20 TDSB support staff and classroom teachers.
 - Feedback Highlights:
